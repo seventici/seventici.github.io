@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://seventici.github.io/sitemap
+Sitemap: https://seventici.github.io/app/sitemap
+Sitemap: https://seventici.github.io/assets/sitemap
+Sitemap: https://seventici.github.io/css/sitemap
+Sitemap: https://seventici.github.io/includes/sitemap
+Sitemap: https://seventici.github.io/item/sitemap
+Sitemap: https://seventici.github.io/src/sitemap
